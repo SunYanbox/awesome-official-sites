@@ -1,0 +1,41 @@
+# Programming Languages
+
+## General Purpose
+- **Python** – [https://www.python.org](https://www.python.org)
+- **Java** – [https://www.java.com](https://www.java.com)
+- **JavaScript** – [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **C** – [https://www.iso.org/standard/74528.html](https://www.iso.org/standard/74528.html) (Standard)
+- **C++** – [https://isocpp.org](https://isocpp.org)
+- **C#** – [https://learn.microsoft.com/en-us/dotnet/csharp](https://learn.microsoft.com/en-us/dotnet/csharp)
+- **Go (Golang)** – [https://go.dev](https://go.dev)
+- **Rust** – [https://www.rust-lang.org](https://www.rust-lang.org)
+- **Swift** – [https://www.swift.org](https://www.swift.org)
+- **Kotlin** – [https://kotlinlang.org](https://kotlinlang.org)
+- **Zig** – [https://ziglang.org](https://ziglang.org)
+- **Nim** – [https://nim-lang.org](https://nim-lang.org)
+- **Dart** – [https://dart.dev](https://dart.dev)
+- **Ruby** – [https://www.ruby-lang.org](https://www.ruby-lang.org)
+- **PHP** – [https://www.php.net](https://www.php.net)
+- **Perl** – [https://www.perl.org](https://www.perl.org)
+- **R** – [https://www.r-project.org](https://www.r-project.org)
+- **Lua** – [https://www.lua.org](https://www.lua.org)
+- **Haskell** – [https://www.haskell.org](https://www.haskell.org)
+- **Elixir** – [https://elixir-lang.org](https://elixir-lang.org)
+- **Julia** – [https://julialang.org](https://julialang.org)
+
+## Web & Scripting
+- **TypeScript** – [https://www.typescriptlang.org](https://www.typescriptlang.org)
+- **HTML5** – [https://html.spec.whatwg.org](https://html.spec.whatwg.org)
+- **CSS** – [https://www.w3.org/Style/CSS](https://www.w3.org/Style/CSS)
+- **SQL** – [https://www.iso.org/standard/76583.html](https://www.iso.org/standard/76583.html)
+- **Bash** – [https://www.gnu.org/software/bash](https://www.gnu.org/software/bash)
+- **PowerShell** – [https://learn.microsoft.com/en-us/powershell](https://learn.microsoft.com/en-us/powershell)
+
+## Functional & Niche
+- **Clojure** – [https://clojure.org](https://clojure.org)
+- **Erlang** – [https://www.erlang.org](https://www.erlang.org)
+- **F#** – [https://fsharp.org](https://fsharp.org)
+- **OCaml** – [https://ocaml.org](https://ocaml.org)
+- **Scala** – [https://www.scala-lang.org](https://www.scala-lang.org)
+- **Groovy** – [https://groovy-lang.org](https://groovy-lang.org)
+- **V** – [https://vlang.io](https://vlang.io)
