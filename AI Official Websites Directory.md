@@ -4,17 +4,17 @@ A curated list of official websites for popular AI tools and platforms (domestic
 
 ## International AI Platforms
 
-- **OpenAI** – [https://openai.com](https://openai.com)
+- **OpenAI** – [https://openai.com](https://openai.com) <!-- anti-bot protection, site is functional -->
 - **ChatGPT** – [https://chat.openai.com](https://chat.openai.com)
-- **Google Gemini** – [https://gemini.google.com](https://gemini.google.com)
+- **Google Gemini** – [https://gemini.google.com](https://gemini.google.com) <!-- may return 502 temporarily -->
 - **Microsoft Copilot** – [https://copilot.microsoft.com](https://copilot.microsoft.com)
 - **Anthropic (Claude)** – [https://claude.ai](https://claude.ai)
 - **Perplexity AI** – [https://perplexity.ai](https://perplexity.ai)
-- **Midjourney** – [https://www.midjourney.com](https://www.midjourney.com)
+- **Midjourney** – [https://www.midjourney.com](https://www.midjourney.com) <!-- anti-bot protection, site is functional -->
 - **Stable Diffusion** – [https://stability.ai](https://stability.ai)
 - **DALL·E 3** – [https://openai.com/dall-e-3](https://openai.com/dall-e-3)
 - **Hugging Face** – [https://huggingface.co](https://huggingface.co)
-- **Character.AI** – [https://character.ai](https://character.ai)
+- **Character.AI** – [https://character.ai](https://character.ai) <!-- anti-bot protection, site is functional -->
 - **Runway ML** – [https://runwayml.com](https://runwayml.com)
 - **Poe (by Quora)** – [https://poe.com](https://poe.com)
 - **Replika** – [https://replika.com](https://replika.com)

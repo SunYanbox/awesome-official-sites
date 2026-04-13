@@ -38,4 +38,4 @@
 - **OCaml** – [https://ocaml.org](https://ocaml.org)
 - **Scala** – [https://www.scala-lang.org](https://www.scala-lang.org)
 - **Groovy** – [https://groovy-lang.org](https://groovy-lang.org)
-- **V** – [https://vlang.io](https://vlang.io)
+- **V** – [https://vlang.dev](https://vlang.dev)

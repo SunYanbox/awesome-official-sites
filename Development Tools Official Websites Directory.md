@@ -5,17 +5,18 @@ A curated list of official websites for game engines, programming languages, and
 ## 🎮 Game Engines
 
 ### Major Commercial Engines
-- **Unity** – [https://unity.com](https://unity.com)
+- **Unity** – [https://unity.com](https://unity.com) <!-- anti-bot protection, site is functional -->
 - **Unreal Engine (Epic Games)** – [https://www.unrealengine.com](https://www.unrealengine.com)
 - **CryEngine** – [https://www.cryengine.com](https://www.cryengine.com)
-- **Godot Engine** (Open Source) – [https://godotengine.org](https://godotengine.org)- **Lumberyard (Open 3D Engine / O3DE)** – [https://www.o3de.org](https://www.o3de.org)
+- **Godot Engine** (Open Source) – [https://godotengine.org](https://godotengine.org)
+- **Lumberyard (Open 3D Engine / O3DE)** – [https://o3de.org](https://o3de.org) <!-- 301 redirect -->
 - **Source 2 (Valve)** – [https://www.valvesoftware.com/en/source2](https://www.valvesoftware.com/en/source2)
 - **Frostbite (EA)** – [https://www.ea.com/frostbite](https://www.ea.com/frostbite)
-- **Decima (Guerrilla / Kojima)** – [https://decima.guerrilla-games.com](https://decima.guerrilla-games.com)
+- **Decima (Guerrilla / Kojima)** – [https://decima.engineering](https://decima.engineering) <!-- 301 redirect -->
 
 ### Indie & 2D Focused Engines
 - **GameMaker Studio** – [https://gamemaker.io](https://gamemaker.io)
-- **Construct** – [https://www.construct.net](https://www.construct.net)
+- **Construct** – [https://www.construct.net](https://www.construct.net) <!-- anti-bot protection, site is functional -->
 - **RPG Maker** – [https://www.rpgmakerweb.com](https://www.rpgmakerweb.com)
 - **Ren'Py** (Visual Novel Engine) – [https://www.renpy.org](https://www.renpy.org)
 - **Defold** – [https://defold.com](https://defold.com)

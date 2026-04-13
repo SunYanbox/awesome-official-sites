@@ -10,13 +10,13 @@ A curated list of official websites for major gaming platforms and game-related 
 - **GOG.com (Good Old Games)** – [https://www.gog.com](https://www.gog.com)
 - **Humble Bundle** – [https://www.humblebundle.com](https://www.humblebundle.com)
 - **Green Man Gaming** – [https://www.greenmangaming.com](https://www.greenmangaming.com)
-- **Fanatical** – [https://www.fanatical.com](https://www.fanatical.com)
+- **Fanatical** – [https://www.fanatical.com](https://www.fanatical.com) <!-- 301 redirect -->
 - **Itch.io** – [https://itch.io](https://itch.io) (indie games)
 
 ### Console Manufacturers
-- **PlayStation (Sony)** – [https://www.playstation.com](https://www.playstation.com)
-- **Xbox (Microsoft)** – [https://www.xbox.com](https://www.xbox.com)
-- **Nintendo** – [https://www.nintendo.com](https://www.nintendo.com)
+- **PlayStation (Sony)** – [https://www.playstation.com](https://www.playstation.com) <!-- 301/307 redirect -->
+- **Xbox (Microsoft)** – [https://www.xbox.com](https://www.xbox.com) <!-- 301/307 redirect -->
+- **Nintendo** – [https://www.nintendo.com](https://www.nintendo.com) <!-- 301 redirect -->
 
 ### Game Publishers & Developers
 - **Electronic Arts (EA)** – [https://www.ea.com](https://www.ea.com)
@@ -30,7 +30,7 @@ A curated list of official websites for major gaming platforms and game-related 
 - **Valve Corporation** – [https://www.valvesoftware.com](https://www.valvesoftware.com)
 - **Square Enix** – [https://www.square-enix.com](https://www.square-enix.com)
 - **Capcom** – [https://www.capcom.com](https://www.capcom.com)
-- **Sega** – [https://www.sega.com](https://www.sega.com)
+- **Sega** – [https://www.sega.com](https://www.sega.com) <!-- anti-bot protection, site is functional -->
 - **Bandai Namco** – [https://www.bandainamcoent.com](https://www.bandainamcoent.com)
 - **Konami** – [https://www.konami.com](https://www.konami.com)
 - **Take-Two Interactive** – [https://www.take2games.com](https://www.take2games.com)
@@ -39,7 +39,7 @@ A curated list of official websites for major gaming platforms and game-related 
 - **Origin (EA App)** – [https://www.ea.com/ea-app](https://www.ea.com/ea-app)
 - **Ubisoft Connect** – [https://ubisoftconnect.com](https://ubisoftconnect.com)
 - **Battle.net (Blizzard)** – [https://www.blizzard.com/apps/battle.net](https://www.blizzard.com/apps/battle.net)
-- **Microsoft Store** – [https://apps.microsoft.com](https://apps.microsoft.com)
+- **Microsoft Store** – [https://www.microsoft.com/store/apps](https://www.microsoft.com/store/apps)
 
 ### Game Services & Databases
 - **SteamDB** – [https://steamdb.info](https://steamdb.info) (Steam database)
@@ -57,13 +57,12 @@ A curated list of official websites for major gaming platforms and game-related 
 - **WeGame (Tencent)** – [https://www.wegame.com.cn](https://www.wegame.com.cn)
 - **NetEase Game** – [https://game.163.com](https://game.163.com)
 - **Bilibili Game Center** – [https://www.biligame.com](https://www.biligame.com)
-- **TapTap (PC/Web)** – [https://www.taptap.cn](https://www.taptap.cn)
+- **TapTap (PC/Web)** – [https://www.taptap.cn](https://www.taptap.cn) <!-- anti-bot protection, site is functional -->
 
 ### Major Game Companies in China
 - **Tencent Games** – [https://game.qq.com](https://game.qq.com)
 - **NetEase Games** – [https://www.163.com/game](https://www.163.com/game)
 - **MiHoYo (HoYoverse)** – [https://www.mihoyo.com](https://www.mihoyo.com) / [https://www.hoyoverse.com](https://www.hoyoverse.com)
-- **HoYoverse (Global)** – [https://www.hoyoverse.com](https://www.hoyoverse.com)
 - **Lilith Games** – [https://www.lilithgames.com](https://www.lilithgames.com)
 - **Yostar** – [https://www.yostar.cn](https://www.yostar.cn)
 - **Perfect World Games** – [https://www.pwrd.com](https://www.pwrd.com)
@@ -81,4 +80,3 @@ A curated list of official websites for major gaming platforms and game-related 
 
 ### Chinese Game Publishers (Global)
 - **Level Infinite (Tencent Global)** – [https://www.levelinfinite.com](https://www.levelinfinite.com)
-- **HoYoverse (Global)** – [https://www.hoyoverse.com](https://www.hoyoverse.com)
